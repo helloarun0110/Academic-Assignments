@@ -1,4 +1,4 @@
-
+// practice problem 1.1
 import java.util.Scanner;
 
 public class GradeCalculator {
