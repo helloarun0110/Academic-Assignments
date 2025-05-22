@@ -83,6 +83,6 @@ class CourseOffering {
     }
 }
 
-public class Scenarion2 {
+public class Scenario2 {
     
 }

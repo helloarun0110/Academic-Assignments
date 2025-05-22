@@ -96,6 +96,6 @@ class User {
     }
 }
 
-public class Scenarion1 {
+public class Scenario1 {
     
 }
