@@ -1,6 +1,7 @@
+// practice problem 01
 import java.util.Scanner;
 
-public class Calculations {
+public class Calculation {
 
     static double Area(double base, double height) {
         return 0.5 * base * height;
